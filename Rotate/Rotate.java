@@ -7,7 +7,7 @@ package rotate;
 
 /**
  *
- * @author Mahesh
+ * @author Merin
  */
 public class Rotate {
 
